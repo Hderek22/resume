@@ -1,19 +1,19 @@
 ### Main page for streamlit resume
 import streamlit as st
-import pages.about
-import pages.skills
-import pages.projects
-import pages.edu
-import pages.recommendations
+import intro.about
+import intro.skills
+import intro.projects
+import intro.edu
+import intro.recommendations
 
 import resources.ast as ast
 
 PAGES = {
-    "About": pages.about,
-    "Education" : pages.edu,
-    "Skills": pages.skills,
-    "Projects": pages.projects,
-    "Recommendations": pages.recommendations
+    "About": intro.about,
+    "Education" : intro.edu,
+    "Skills": intro.skills,
+    "Projects": intro.projects,
+    "Recommendations": intro.recommendations
 }
 
 def main():
