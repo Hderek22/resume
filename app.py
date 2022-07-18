@@ -35,7 +35,7 @@ def main():
     st.sidebar.info(
         "This an interactive streamlit app completely created with Python's latest library **streamlit** "
         "Do reach out to me on [LinkedIn](https://www.linkedin.com/in/hderek22/) or "
-        "at [Mail me](mailto:abhishek.2.gupta@uconn.edu) to know more. "
+        "at [Mail me](mailto:Hderek22@icloud.com) to know more. "
         "Also check the [source code](https://github.com/Hderek22) here. "  
 
 )
