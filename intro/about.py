@@ -18,7 +18,10 @@ I pursued big box retail after selling my business of 14 years...within 3 years 
 
 I took up running to get healthy and ended up running the NYC marathon twice.
 
-It's safe to say I'm certainly not one to dabble.
+
+Immersing myself completely into something that I enjoy has been my key to success. I am currently 100 percent focused on blockchain engineering/development and can't wait to see where this venture takes me!
+
+
 ## Experiences
 
 **Business Development | Leadership | Team Building | Finance**
@@ -37,7 +40,7 @@ It's safe to say I'm certainly not one to dabble.
 
 *Built with [**Streamlit**](https://www.streamlit.io/)*
 
-*Check out my [**GitHub**](https://github.com/Hderek22/Streamlit_resume.git) for the implementation details of this page.* 
+*Check out my [**GitHub**](https://github.com/Hderek22/resume.git) for the implementation details of this page.* 
 
 
 
