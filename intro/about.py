@@ -4,7 +4,7 @@ import streamlit as st
 def write():
 # Used to write the about page in the app.py file
     st.title("Derek Hall")
-    st.image("resources/images/Derek.JPG")
+    st.image("resources/images/Derek.JPG",width = 250)
     st.markdown(
     """
 
