@@ -14,11 +14,11 @@ One thing you should know about me is...I don't dabble. It is simply not in my n
 
 I started bussing tables as a teenager and liked the business...at age 30 I owned 3 restaurants.
 
-I pursued big box retail after selling my business of 14 years...within 3 years I was managing 150M annualy.
+I pursued big box retail after selling my business of 14 years...within 3 years I was managing 150M annually.
 
 I took up running to get healthy and ended up running the NYC marathon twice.
 
-Its safe to say I'm certainly not one to dabble.
+It's safe to say I'm certainly not one to dabble.
 ## Experiences
 
 **Business Development | Leadership | Team Building | Finance**
@@ -31,7 +31,7 @@ Its safe to say I'm certainly not one to dabble.
 
 ## My Goals
 
-**Join a team with likeminded 'can do' teammates and build a 4 star business!**
+**Join a team with like-minded 'can do' teammates and build a 4 star business!**
 
 -----
 

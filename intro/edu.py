@@ -6,7 +6,7 @@ def write():
     st.image("resources/images/Badge.png", width=250)
     st.markdown(
     """
-**[**Credential**](https://www.credly.com/badges/0e89d302-0f91-4ec7-8589-f60f857bf798?source=linked_in_profile)**\n
+**[**Credentials**](https://www.credly.com/badges/0e89d302-0f91-4ec7-8589-f60f857bf798?source=linked_in_profile)**\n
 
 **Courses Completed** \n
 - Python \n
