@@ -1,10 +1,10 @@
 """Projects page shown when the user enters the application"""
 import streamlit as st
 
-
+def write():
 # Used to write the page in the app.py file
-st.title("Career")
-st.markdown(
+    st.title("Career")
+    st.markdown(
     """### Earth Fare Organic Markets
         
 **Director of Operations 9 years**

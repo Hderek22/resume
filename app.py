@@ -1,7 +1,6 @@
 ### Main page for streamlit resume
 import streamlit as st
 import intro.about
-import intro.skills
 import intro.projects
 import intro.edu
 import intro.recommendations
@@ -10,10 +9,9 @@ import resources.ast as ast
 
 PAGES = {
     "About": intro.about,
-    "Education" : intro.edu,
-    "Skills": intro.skills,
+    "Tech Skills" : intro.edu,
     "Projects": intro.projects,
-    "Recommendations": intro.recommendations
+    "Career": intro.recommendations
 }
 
 def main():

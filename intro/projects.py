@@ -1,10 +1,10 @@
 """Projects page shown when the user enters the application"""
 import streamlit as st
 
-
+def write():
 # Used to write the page in the app.py file
-st.title("Projects[(GitHub)](https://github.com/hderek22)")
-st.markdown(
+    st.title("Projects[(GitHub)](https://github.com/hderek22)")
+    st.markdown(
     """
 
 **Machine Learning Crypto Trading Algorithm/Bot[(Code)](https://github.com/Hderek22/machine_learning_crypto_algo.git)**
