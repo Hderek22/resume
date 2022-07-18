@@ -28,15 +28,13 @@ def main():
     st.sidebar.info(
         """
         Are you are looking for help developing and building your business? 
-        [email me](mailto:Hderek22@icloud.com) or reach out 
+        [Email me](mailto:Hderek22@icloud.com) or reach out 
         to me on [LinkedIn](https://www.linkedin.com/in/hderek22/)
 """)
-    st.sidebar.title("Additional Info")
+    st.sidebar.title(" ")
     st.sidebar.info(
-        "This an interactive streamlit app completely created with Python's latest library **streamlit**. "
-        "Reach out to me on [LinkedIn](https://www.linkedin.com/in/hderek22/) or "
-        "at [Mail me](mailto:Hderek22@icloud.com) to know more. "
-        "Also check the [source code](https://github.com/Hderek22) here. "  
+        "This an interactive streamlit app**streamlit**. "
+        "Check the [source code](https://github.com/Hderek22) here. "  
 
 )
 
