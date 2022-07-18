@@ -34,7 +34,7 @@ def main():
     st.sidebar.title(" ")
     st.sidebar.info(
         "This interactive app was built with **streamlit**. "
-        " Check the [source code](https://github.com/Hderek22) here. "  
+        "[source code](https://github.com/Hderek22/resume)"  
 
 )
 
