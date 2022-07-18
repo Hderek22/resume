@@ -1,34 +1,47 @@
 """About page shown when the user enters the application"""
 import streamlit as st
 
-def write():
-    """Used to write the about page in the app.py file"""
-    st.title("Un Esprit Curieux - A curious mind! :sleuth_or_spy:")
-    st.markdown(
-            """## Who Am I?
-"_I am a Random Forest in the World of Overfitting_"
 
-A Data Scientist with 5 years of experience in solving Business Problems, 
-a constant learner and a firm believer of experimentation over expertise. 
-Always on the lookout for new technologies, I am passionate about designing Data driven solutions which are easy, economical and can be scaled.
- 
-**Abhishek Gupta**\n
-**Data Science | Business Analytics | Project Management **
+# Used to write the about page in the app.py file
+st.title("Derek Hall")
+st.image("resources/images/me.jpg")
+st.markdown(
+    """
 
-[**LinkedIn**](https://www.linkedin.com/in/abhishek-gupta-/) | [**Email**](mailto:abhishek.2.gupta@uconn.edu)
+"_Focus on the success of your Teammates and amazing things will happen for you!_"
 
-## The Project
-I came across **Streamlit** last week while looking for solution to host python apps on AWS EC2. 
-The Framework  boasts of being the easiest and the fastest way of creating interactive apps, and after spending just a 
-few hours creating this interactive resume, I can vouch for that. 
+One thing you should know about me is...I don't dabble. It is simply not in my nature. If I set out to accomplish a goal, I'm all in, end of story.
 
-Check out my [**GitHub**]() for the implementation. Reach out to me for any project or a simple discussion on Streamlit.
-Also check out their [**page**](https://www.streamlit.io/) for more more information and updates.
-Also check out this amazing implementation of Streamlit by [**Marc Skov Madsen**](http://awesome-streamlit.org/) for streamlit inspiration.
+I started bussing tables as a teenager and liked the business...at age 30 I owned 3 restaurants.
+
+I pursued big box retail after selling my business of 14 years...within 3 years I was managing 150M annualy.
+
+I took up running to get healthy and ended up running the NYC marathon twice.
+
+Its safe to say I'm certainly not one to dabble.
+## Experiences
+
+**Business Development | Leadership | Team Building | Finance**
+
+## Skills
+
+**Python | Solidity | Machine Learning | API's | SQL | AWS**
+
+[**LinkedIn**](https://www.linkedin.com/in/hderek22) | [**Email**](mailto:Hderek22@gmail.com)
+
+## My Goals
+
+**Join a team with likeminded 'can do' teammates and build a 4 star business!**
+
+-----
+
+*Built with [**Streamlit**](https://www.streamlit.io/)*
+
+*Check out my [**GitHub**](https://github.com/Hderek22/Streamlit_resume.git) for the implementation details of this page.* 
+
+
 
 
 """,
-            unsafe_allow_html=True,
-        )
-if __name__ == "__main__":
-    main()
+    unsafe_allow_html=True,
+)
