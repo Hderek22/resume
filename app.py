@@ -24,7 +24,7 @@ def main():
     with st.spinner(f"Loading {selection} ..."):
         ast.write_page(page)
 
-    st.sidebar.title("Hire Me")
+    st.sidebar.title("Hire Me.")
     st.sidebar.info(
         """
         Are you are looking for help developing and building your business? 
@@ -33,8 +33,8 @@ def main():
 """)
     st.sidebar.title(" ")
     st.sidebar.info(
-        "This an interactive streamlit app**streamlit**. "
-        "Check the [source code](https://github.com/Hderek22) here. "  
+        "This interactive app was built with **streamlit**. "
+        " Check the [source code](https://github.com/Hderek22) here. "  
 
 )
 
