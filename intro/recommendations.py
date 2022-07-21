@@ -15,7 +15,7 @@ def write():
 - Job Fairs, training syllabi and orientations
 
         
-### Stanley Road QSR - 14 Years
+### Stanley Road QSR
 **President & CEO of a multi-Unit Quiznos Franchise - 14 years**
 - Led the startup of a franchise business which operated profitably from startup to sale
 - Developed an executed business plan to include financing, commercial leasing, local/corporate operating regulations, recruiting and vendor procurement
