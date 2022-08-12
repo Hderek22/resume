@@ -7,6 +7,11 @@ def write():
     st.markdown(
     """
 
+**Music NFT Minter[(Hackathon submission)](https://ethglobal.com/showcase/gemgroove-music-minter-xkfyn)**
+- Built award winning app for ETH Globals Metabolism hackathon.
+- Utilizing Open Zeppelins ERC-721 Smart Contract, this app allows the user to turn their own song into an NFT
+- Built using Streamlit and NFT Storage IPFS protocol
+
 **Machine Learning Crypto Trading Algorithm/Bot[(Code)](https://github.com/Hderek22/machine_learning_crypto_algo.git)**
 - Built a logistic regression model using Sklearn
 - Connected to Alpaca Finance API's with trading signals based on market movement
@@ -18,12 +23,6 @@ def write():
 - Created ab ERC20 token - KasaiCoin
 - Coded crowdsale for ERC20 Token
 
-**Music NFT Minter[(Code)](https://github.com/Hderek22/Music-NFT-Minter.git)**
-- This app was built as a solo project during ETH Globals Metabolism hackathon
-- Utilizing Open Zeppelins ERC-721 Smart Contract, it allows the user to turn their own song into an NFT
-- Built using Streamlit and NFT Storage IPFS protocol
-
-        
 
 """,
     unsafe_allow_html=True,
