@@ -20,9 +20,9 @@ def write():
 
 
 **Music NFT Minter[(Code)](https://github.com/Hderek22/Music-NFT-Minter.git)**
--This app was built as a solo project during ETH Globals Metabolism hackathon.
--Utilizing Open Zeppelins ERC-721 Smart Contract, this app allows the user to turn their own song into an NFT.
--Built using Streamlit and NFT Storage IPFS protocol.
+- This app was built as a solo project during ETH Globals Metabolism hackathon
+- Utilizing Open Zeppelins ERC-721 Smart Contract, this app allows the user to turn their own song into an NFT
+- Built using Streamlit and NFT Storage IPFS protocol
 
         
 
