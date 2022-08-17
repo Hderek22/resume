@@ -7,8 +7,8 @@ def write():
     st.markdown(
     """
 
-**Music NFT Minter[(Hackathon submission)](https://ethglobal.com/showcase/gemgroove-music-minter-xkfyn)**
-- Award winning app for ETH Globals Metabolism hackathon.
+**Music NFT Minter[(Video demonstration)](https://ethglobal.com/showcase/gemgroove-music-minter-xkfyn)**
+- Award winning app for ETH Globals Metabolism hackathon
 - Utilizing Open Zeppelins ERC-721 Smart Contract, this app allows the user to turn their own song into an NFT
 - Built using Streamlit and NFT Storage IPFS protocol
 
