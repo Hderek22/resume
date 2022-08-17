@@ -8,20 +8,20 @@ def write():
     """
 
 **Music NFT Minter[(Hackathon submission)](https://ethglobal.com/showcase/gemgroove-music-minter-xkfyn)**
-- Built award winning app for ETH Globals Metabolism hackathon.
+- Award winning app for ETH Globals Metabolism hackathon.
 - Utilizing Open Zeppelins ERC-721 Smart Contract, this app allows the user to turn their own song into an NFT
 - Built using Streamlit and NFT Storage IPFS protocol
 
 **Machine Learning Crypto Trading Algorithm/Bot[(Code)](https://github.com/Hderek22/machine_learning_crypto_algo.git)**
-- Built a logistic regression model using Sklearn
+- A logistic regression model using Sklearn
 - Connected to Alpaca Finance API's with trading signals based on market movement
 
 **Blockchain Payment Processing Tool[(Code)](https://github.com/Hderek22/blockchain_payment_processing_tool.git)**
-- Created a blockchain currency and built a Streamlit app for making payments with the new currency
+- A blockchain Streamlit app for making payments with new currency
 
 **Crowdsale KaseiCoin[(Code)](https://github.com/Hderek22/CrowdsaleKaseiCoin.git)**
-- Created ab ERC20 token - KasaiCoin
-- Coded crowdsale for ERC20 Token
+- An ERC20 token - KasaiCoin
+- Crowdsale for ERC20 Token
 
 
 """,
