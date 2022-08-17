@@ -8,7 +8,7 @@ def write():
     st.markdown(
     """
 
-"_Focus on the success of those around you and yours will flourish naturally, for all boats rise on a rising sea._"
+"_Focus on the success of those around you and yours will come naturally, for all boats rise on a rising sea._"
 
 One thing you should know about me is...I don't dabble. It is simply not in my nature. If I set out to accomplish a goal, I'm all in, end of story.
 
