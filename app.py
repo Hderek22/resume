@@ -11,7 +11,7 @@ PAGES = {
     "About": intro.about,
     "Tech Skills" : intro.edu,
     "Projects": intro.projects,
-    "Career": intro.recommendations
+    "Experience": intro.recommendations
 }
 
 def main():
