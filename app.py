@@ -27,7 +27,6 @@ def main():
     st.sidebar.title("Hire Me.")
     st.sidebar.info(
         """
-        Are you are looking for help developing and building your business? 
         [Email me](mailto:Hderek22@icloud.com) or reach out 
         to me on [LinkedIn](https://www.linkedin.com/in/hderek22/)
 """)
