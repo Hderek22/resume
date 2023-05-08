@@ -11,7 +11,9 @@ def write():
     **Award winning EthGlobal Hacker** - *Offchain Storage Wizard [**(POAP)**](https://app.poap.xyz/token/5515101)*
     
 ### Current Web3 Projects 
+
 -GemGrooves Music Platform[**(GemGrooves)**](https://gemgrooves-fbd1c6.spheron.app/)*
+
 -Building on FarCaster
 
 
