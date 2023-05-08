@@ -10,14 +10,6 @@ def write():
 
 "_Focus on the success of those around you and yours will come naturally, for all boats rise on a rising sea._"
 
-One thing you should know about me is...I don't dabble. It is simply not in my nature. If I set out to accomplish a goal, I'm all in, end of story.
-
-I started bussing tables as a teenager and liked the business...at age 30 I owned 3 restaurants.
-
-I pursued big box retail after selling my business of 14 years...within 3 years I was managing 150M annually.
-
-I took up running to get healthy and ended up running the NYC marathon twice.
-
 
 Immersing myself completely into something that I enjoy has been my key to success. I am currently 100 percent focused on blockchain engineering/development and can't wait to see where it takes me!
 
