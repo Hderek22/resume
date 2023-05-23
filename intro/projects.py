@@ -8,7 +8,7 @@ def write():
     """
 
 **GemGrooves[(Video demonstration)](https://ethglobal.com/showcase/gemgroove-music-minter-xkfyn)**
-- Received Filecoin Microgrant for continuation of work on project.
+- Received Filecoin Microgrant for continuation of work on GemGrooves Music Platform.
 - Award winning app for ETH Globals Metabolism hackathon
 - Utilizing Open Zeppelins ERC-721 Smart Contract, this app allows the user to turn their own song into an NFT
 - Built using Streamlit and NFT Storage IPFS protocol
